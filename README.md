@@ -20,7 +20,7 @@ Here are some of the technologies I work with:
 ## Contact
 
 I'm always open to new opportunities and collaborations! You can find me at:
-
+- <a href="https://www.linkedin.com/in/alecanonm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="candelariagonzalezdev" height="30" width="40" /></a>
 - [LinkedIn](https://www.linkedin.com/in/alecanonm/)
 - [Email](al3jandrocan0n@gmail.com)
 
