@@ -2,7 +2,7 @@
 
 ## About Me
 
-Greetings! I'm [Alejandro], a passionate FullStack developer enthusiastic about technology and programming. I love exploring and learning new technologies to create innovative and functional solutions. My goal is to contribute to the tech world by crafting cool applications and exceptional user experiences.
+Greetings! I'm Alejandro, a passionate FullStack developer enthusiastic about technology and programming. I love exploring and learning new technologies to create innovative and functional solutions. My goal is to contribute to the tech world by crafting cool applications and exceptional user experiences.
 
 - 💼 I'm currently working on exciting projects spanning from frontend to backend development.
 - 🌱 I'm in a constant learning mode and always on the lookout for opportunities to enhance my technical skills.
