@@ -19,9 +19,10 @@ Here are some of the technologies I work with:
 
 ## Contact
 
-I'm always open to new opportunities and collaborations! You can find me at: 
-- <a href="https://www.linkedin.com/in/alecanonm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="candelariagonzalezdev" height="30" width="40" /></a>
-- <a href="al3jandrocan0n@gmail.com" target="blank"><img align="center" src="./images/gmail_new_logo_icon_159149.png" alt="candelariagonzalezdev" height="40" width="40" /></a>
-- <a href="https://wa.link/bm72sh" target="blank"><img align="center" src="./images/whatsapp.png" alt="candelariagonzalezdev" height="40" width="40" /></a>
+I'm always open to new opportunities and collaborations! You can find me at:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/alecanonm)
+[![Email](./images/gmail_new_logo_icon_159149.png)](mailto:al3jandrocan0n@gmail.com)
+[![WhatsApp](./images/whatsapp.png)](https://wa.link/bm72sh)
 
 Feel free to reach out if you want to chat about technology, projects, or anything else! Looking forward to connecting with you!
